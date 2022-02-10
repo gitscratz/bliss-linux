@@ -1,0 +1,24 @@
+{
+  "name": "bliss-linux",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE HTML> <html lang=\"en-US\"> <head> \t<meta charset=\"UTF-8\"> \t<script type=\"text/javascript\">var NREUMQ=NREUMQ||[];NREUMQ.push([\"mark\",\"firstbyte\",new Date().getTime()]);</script><title>Free Template from TemplateMonster.com ReadMe</title> </head> <body bgcolor=\"#e4e4e4\"> \t<table style=\"font-size: 11px; line-height: 14px; color: #666666; font-family: Helvetica, Arial, sans-serif;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\" align=\"center\" bgcolor=\"#e4e4e4\"> \t<tr> \t<td> \t<table style=\"font-size: 11px; line-height: 14px; color: #666666;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"800\" align=\"center\"> \t<tr> \t<td style=\"line-height: 0; font-size: 0;\" height=\"20\">&nbsp;</td> \t</tr> \t<tr> \t<td style=\"line-height: 0; font-size: 0;\" height=\"13\">&nbsp;</td> \t</tr> \t</table> \t<table style=\"font-size: 13px; line-height: 18px; color: #666666; border-radius: 4px; border: #e1e1e1 1px solid;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"648\" align=\"center\" bgcolor=\"#ffffff\"> \t<tr> \t<td> \t<table style=\"font-size: 13px; line-height: 18px; color: #666666;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"800\" align=\"center\"> \t<tr> \t<td style=\"line-height: 0; font-size: 0;\" colspan=\"3\" height=\"45\">&nbsp;</td> \t</tr> \t<tr> \t<td width=\"40\">&nbsp;</td> \t<td><strong style=\"font-size:30px;line-height:20px;color:#000000;font-weight:bold\">Free HTML5 Theme for Restaurant Website</strong><br><br> \tAuthor: <strong style=\"color: #010101;\">TemplateMonster</strong><br> \tAuthor URL: <a href=\"http://www.templatemonster.com/\" style=\"color:#2673b4; text-decoration:underline;\">www.templatemonster.com</a><br> \t<a href=\"http://www.templatemonster.com/free-templates/free-html5-theme-for-restaurant-website.php\" style=\"color:#2673b4; text-decoration:underline;\">Download Page</a><br><br><br>",
+  "main": "demo.js",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitscratz/bliss-linux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitscratz/bliss-linux/issues"
+  },
+  "homepage": "https://github.com/gitscratz/bliss-linux#readme"
+}
